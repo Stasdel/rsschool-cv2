@@ -1,1 +1,1 @@
-# https://stanislaudzialendzik.github.io/rsschool-cv2/cv
+# https://stasdel.github.io/rsschool-cv2/cv
